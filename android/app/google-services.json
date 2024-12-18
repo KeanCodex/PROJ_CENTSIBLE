@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "280610076557",
+    "project_id": "centsible-3deda",
+    "storage_bucket": "centsible-3deda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280610076557:android:17cc32c2c9b7cdee396fc4",
+        "android_client_info": {
+          "package_name": "com.centsible.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280610076557-7hpg6fokvc6mboindgah4n07353mirjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centsible.app",
+            "certificate_hash": "4d8263f1e6ef44b641fe167a6af6cb295a550646"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjki8B7ur7iJbWYgxX4SVoakH4Ygh1Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280610076557-j3actthl9mjdnrobjngo5611tbgv88c1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.censibleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
